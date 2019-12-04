@@ -5,3 +5,10 @@ C:\Projekt\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.csprojAs
 C:\Projekt\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.csproj.CoreCompileInputs.cache
 C:\Projekt\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.exe
 C:\Projekt\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.pdb
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\AdventOfCode2019.exe.config
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\AdventOfCode2019.exe
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\AdventOfCode2019.pdb
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.csprojAssemblyReference.cache
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.csproj.CoreCompileInputs.cache
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.exe
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.pdb
