@@ -12,3 +12,5 @@ C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOf
 C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.csproj.CoreCompileInputs.cache
 C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.exe
 C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\AdventOfCode2019.pdb
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\Day6Input.txt
+C:\GitHub\AdventOfCode_2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\Day6TestInput.txt

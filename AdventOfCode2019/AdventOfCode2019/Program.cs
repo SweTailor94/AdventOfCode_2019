@@ -38,9 +38,16 @@ namespace AdventOfCode2019
 
             //var op = new OpCode(01102);
 
-            var d5 = new Day5();
-            d5.Run();
+            //var d5 = new Day5();
+            //d5.Run();
 
+
+            var d6 = new Day6();
+            d6.ParseInput("Day6Input.txt");
+            Console.WriteLine(d6.GetChecksum());
+
+            var changes = d6.MinOrbitChanges();
+            Console.WriteLine(changes);
             Console.ReadLine();
         }
 
